@@ -1,3 +1,20 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="header">
+    <h1>My GitHub Profile</h1>
+    <p> -👋 Привет, я (@andrusha1584) Андрей Каргин !</p>
+</div>
+
+</body>
+</html>
+
 -👋 Привет, я (@andrusha1584) Андрей Каргин
 
 - 👀 Меня интересует програмирование на языке Python.
@@ -22,22 +39,6 @@
 
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
-
-</body>
-</html>
 
 
 
